@@ -1,8 +1,8 @@
 class Flint < Formula
     desc "Generate projects and files from template."
     homepage "https://github.com/flintbox/Flint"
-    url "https://github.com/flintbox/Flint/archive/0.1.6.tar.gz"
-    sha256 "7796e597f145b00efe527ed07c71ca2738e6388f117915e25c2ccfc4b00010e6"
+    url "https://github.com/flintbox/Flint/archive/0.1.7.tar.gz"
+    sha256 "3e1de95ff896daef6e52fe06ec26366197d6f11dd207d0e26bc1d6959162c660"
 
     def install
         # fixes an issue an issue in homebrew when both Xcode 9.3+ and command line tools are installed
